@@ -142,7 +142,7 @@ const App = () => {
         },
       });
       console.log("GIF sucesfully sent to program", inputValue);
-
+      setInputValue("")
       await getGifList();
     } catch (error) {
       console.log("Error sending GIF:", error);
