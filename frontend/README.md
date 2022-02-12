@@ -1,4 +1,4 @@
-# buildspace Solana GIF Portal Project
+# buildspace Solana Meditation Portal Project
 
 ## Live Demo - [Click here](https://condescending-lamarr-8894ef.netlify.app/)
 
